@@ -1,35 +1,30 @@
-import psycopg2
+from sqlalchemy import create_engine, text
 import pandas as pd
 from config import DB_CONFIG
 
-def get_connection():
-    return psycopg2.connect(**DB_CONFIG)
+# Create SQLAlchemy engine using pg8000
+engine = create_engine(
+    f"postgresql+pg8000://{DB_CONFIG['user']}:{DB_CONFIG['password']}@{DB_CONFIG['host']}:{DB_CONFIG['port']}/{DB_CONFIG['database']}"
+)
 
 def run_query(query):
-    conn = get_connection()
-    cursor = conn.cursor()
-    cursor.execute(query)
-    rows = cursor.fetchall()
-    col_names = [desc[0] for desc in cursor.description]
-    conn.close()
-    return pd.DataFrame(rows, columns = col_names), len(rows)
+    with engine.connect() as conn:
+        result = conn.execute(text(query))
+        df = pd.DataFrame(result.fetchall(), columns=result.keys())
+        return df, len(df)
 
 def explain_query(query):
-    conn = get_connection()
-    cursor = conn.cursor()
-    cursor.execute("EXPLAIN (ANALYZE, BUFFERS)" + query)
-    plan = cursor.fetchall()
-    conn.close()
-    return "\n".join(row[0] for row in plan)
+    explain_sql = f"EXPLAIN (ANALYZE, BUFFERS) {query}"
+    with engine.connect() as conn:
+        result = conn.execute(text(explain_sql))
+        plan_lines = [row[0] for row in result]
+        return "\n".join(plan_lines)
 
 def create_index(column):
-    conn = get_connection()
-    cursor = conn.cursor()
     try:
-        cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_{column} ON employees({column})")
-        conn.commit()
-        return f"Index on {column}' created Successfully"
+        index_sql = f"CREATE INDEX IF NOT EXISTS idx_{column} ON employees({column})"
+        with engine.connect() as conn:
+            conn.execute(text(index_sql))
+            return f"Index on '{column}' created successfully."
     except Exception as e:
         return f"Error: {e}"
-    finally:
-        conn.close()
