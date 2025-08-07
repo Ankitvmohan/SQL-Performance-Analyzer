@@ -1,0 +1,901 @@
+new_employee_id,First_Name,Last_Name,Department,Salary
+1,Ravid,Jouannisson,Legal,900511.8
+2,Odella,Benzi,Services,961418.62
+3,Cyrus,Cromblehome,Support,712113.37
+4,Clemence,Rogan,Sales,583082.2
+5,Myles,Antic,Accounting,881927.06
+6,Ludvig,Golde,Support,325070.8
+7,Dalli,Taye,Training,592945.05
+8,Katina,Eastbrook,Training,928525.69
+9,Sharl,Menlow,Engineering,35473.7
+10,Charlotta,Gosnell,Business Development,432969.49
+11,Kerianne,Meere,Business Development,159842.07
+12,Genna,Kydd,Accounting,439137.1
+13,Aubrey,Yewman,Business Development,513355.88
+14,Meade,Leonard,Marketing,838610
+15,Kathrine,Girardetti,Legal,283512.27
+16,Roldan,Hardaway,Support,773909.57
+17,Paulette,Scroggie,Product Management,38618.16
+18,Joey,Ortmann,Research and Development,901206.66
+19,Timmy,Casterot,Human Resources,808775.03
+20,Cilka,Yendall,Services,351009.93
+21,Lia,de Voiels,Accounting,429151.67
+22,Tonia,Ruddle,Sales,948929.67
+23,Dalston,Riccioppo,Support,518123.61
+24,Petrina,Doelle,Accounting,615549.75
+25,Raven,Dury,Engineering,423600.13
+26,Dreddy,Fairfoot,Accounting,212181.13
+27,Ross,Fulford,Sales,450393.69
+28,Nickolai,Pendlebury,Services,594945.65
+29,Catherin,Barhem,Business Development,706102.81
+30,Ferd,Stitle,Training,204683.39
+31,Tiffani,McCurdy,Marketing,464509.69
+32,Winny,Moutray Read,Research and Development,193818.58
+33,Poppy,Laval,Research and Development,395984.49
+34,Auroora,Moncur,Support,168198.06
+35,Essie,Mays,Services,966988.91
+36,Janifer,Pulley,Marketing,500970.68
+37,Mahmud,Pates,Sales,536001.25
+38,Caryl,Treat,Engineering,679726.95
+39,Erv,Egle,Sales,635042.69
+40,Darrick,Leathley,Accounting,919789.38
+41,Olympe,Cansdill,Sales,685654.49
+42,Anna-diane,Devonside,Training,585804.82
+43,Blaine,Yurmanovev,Accounting,81527.32
+44,Blinny,Truckell,Engineering,802166.94
+45,Margaretha,Bushill,Accounting,336150.48
+46,April,Rosellini,Sales,503786.37
+47,Nance,Crisford,Accounting,652334.59
+48,Ly,Wylie,Business Development,355305.48
+49,Lisetta,Wyne,Services,176896.66
+50,Poul,Trood,Support,505904.56
+51,Goldia,Richemont,Support,121427.85
+52,Selby,Greaser,Legal,551052.84
+53,Erastus,Millmore,Marketing,358026.45
+54,Waneta,Sparkwell,Services,269188.32
+55,Sileas,Mantrup,Marketing,669504.3
+56,Tabby,Jachtym,Support,198053.25
+57,Allister,Beardsley,Engineering,99090.12
+58,Eadie,Fearnley,Engineering,504731.21
+59,Ella,Gaishson,Legal,855538.74
+60,Yolanda,Limpricht,Human Resources,434841.11
+61,Blancha,Kemson,Research and Development,561768.52
+62,Gladi,Humble,Legal,526795.62
+63,Eula,Daugherty,Services,542300.34
+64,Annora,Cours,Human Resources,548169.47
+65,Jean,Larret,Sales,312509.37
+66,Aida,Van den Dael,Training,195883.76
+67,Carolina,Spivey,Business Development,344983.11
+68,Belvia,Ayling,Support,988760.72
+69,Perri,Jowle,Research and Development,970488.17
+70,Denny,Behrendsen,Human Resources,289116.4
+71,Rod,Palser,Marketing,215589.71
+72,Claudie,Fallon,Engineering,871568.16
+73,Charo,Ackerley,Services,926331.95
+74,Alyson,Sneezum,Engineering,362066.89
+75,Adena,Redhills,Marketing,129071.87
+76,Celine,Yanin,Training,732397.01
+77,Reba,Lomas,Support,553198.73
+78,Tootsie,Dallosso,Human Resources,20275.03
+79,Kelley,Aizikov,Accounting,244591.04
+80,Tedda,Kleinerman,Legal,840780.6
+81,Emalee,Stirrip,Legal,839550.97
+82,Glenine,Tevlin,Training,863937.76
+83,Hettie,Frankema,Training,875768.52
+84,Redd,Saterweyte,Support,4095.04
+85,Teodoro,Iannello,Marketing,306040.68
+86,Yolanthe,Bauduin,Services,989474.86
+87,Alida,Logsdail,Engineering,669574.7
+88,Cheryl,Paulack,Engineering,14681.06
+89,Sarajane,Bendell,Sales,862976.6
+90,Bat,Echelle,Training,131209.57
+91,Zabrina,Blare,Services,605438.82
+92,Worthy,Dabels,Services,42045.69
+93,Drucill,Vogeller,Services,111453.14
+94,Alwin,Wroughton,Engineering,822478.96
+95,Reggi,Kidwell,Training,474729.86
+96,Candice,Stendell,Legal,262761.92
+97,Darb,Ceschi,Engineering,762772.37
+98,Abbott,Lemoir,Sales,319412.75
+99,Marylou,Orrey,Marketing,113488.36
+100,Olivette,Lower,Accounting,806277.11
+101,Win,Setford,Engineering,814849.89
+102,Scarlet,Howieson,Business Development,610257.94
+103,Carroll,Tunnacliffe,Engineering,996425.66
+104,Annora,Keenleyside,Engineering,108558.84
+105,Aurea,Markey,Accounting,999646.12
+106,Glenine,Jenk,Legal,500555.28
+107,Rich,Baggot,Research and Development,779446.31
+108,Gloriane,Karby,Legal,57480.88
+109,Charmian,Twell,Training,95840.52
+110,Kylynn,Broadis,Business Development,560983.67
+111,Ado,Sarll,Training,836435.21
+112,Rhoda,Trevallion,Human Resources,662024.48
+113,Anni,Antonacci,Product Management,46447.43
+114,Mitchell,Sandeford,Sales,14834.25
+115,Andrea,Yepiskov,Services,163701.73
+116,Andonis,Hallagan,Accounting,565630.88
+117,Koressa,Borrows,Research and Development,723827.44
+118,Leeann,Foy,Support,838382.56
+119,Ronald,Burberry,Training,67484.32
+120,Ariel,Uzzell,Training,106522.37
+121,Cheri,Arnoult,Business Development,41745.29
+122,Law,Sign,Research and Development,399725.31
+123,Diego,Killbey,Research and Development,669156.11
+124,Tommy,Iliffe,Marketing,414073.07
+125,Burr,Suggitt,Training,809115.36
+126,Barri,Petkovic,Accounting,74029.91
+127,Ernesto,Crowcombe,Engineering,291953.74
+128,Hurley,Kann,Product Management,412718.21
+129,Jazmin,Agastina,Accounting,158177.21
+130,Jesselyn,Strewthers,Business Development,262258.87
+131,Doe,Collingwood,Human Resources,574574.38
+132,Marna,Connue,Support,893176.97
+133,Lewie,Yann,Research and Development,19615.86
+134,Anstice,Venables,Services,619823.47
+135,Stafani,Eliet,Research and Development,150090.32
+136,Suzy,Barnish,Legal,383591.79
+137,Schuyler,Wyke,Product Management,995416.67
+138,Zea,Stainbridge,Marketing,579872.22
+139,Roseanna,Kobpa,Support,873539.1
+140,Decca,Coram,Accounting,199956.34
+141,Gilberto,Renny,Sales,77289.59
+142,Nikolia,Rouchy,Human Resources,67337.88
+143,Darci,Blackborow,Marketing,780978.92
+144,Irina,Seiller,Accounting,503669.59
+145,Gaston,Terrell,Legal,810287.54
+146,Clarinda,Burgane,Business Development,869136.59
+147,Abbey,Dodd,Engineering,494131.57
+148,Zondra,Pervew,Product Management,151744.58
+149,Katerine,Bristo,Accounting,675436.19
+150,Agnes,Ashley,Product Management,838731.99
+151,Staford,Flindall,Accounting,80626.53
+152,Carlie,Burry,Sales,243301.62
+153,Hedda,Slyman,Research and Development,301702.71
+154,Cybill,Oseman,Support,836608.17
+155,Naomi,Axe,Legal,533188
+156,Milly,Highton,Legal,456384.95
+157,Althea,Kuschel,Legal,397747.78
+158,Emelda,Branthwaite,Training,963147.91
+159,Errol,Gennerich,Training,488150.54
+160,Chaddie,Burrill,Sales,363445.99
+161,Travis,Sutterby,Business Development,986658.26
+162,Noah,Mangham,Product Management,520927.4
+163,Ode,Albrook,Product Management,678709.44
+164,Denni,Adie,Business Development,248108.33
+165,Marje,Helin,Business Development,735246.33
+166,Dominick,Bumford,Product Management,370709.42
+167,Sindee,McAlroy,Accounting,622041.96
+168,Annabela,Gulc,Support,751462.89
+169,Gawen,Stair,Product Management,200523.78
+170,Farrah,Fones,Engineering,579877.43
+171,Madelena,Napolitano,Training,808031.93
+172,Salomo,Beers,Services,589006.11
+173,Cora,Kirtley,Legal,803450.74
+174,Hendrick,Blowne,Accounting,920348.77
+175,Barrett,Renn,Accounting,151384.85
+176,Donetta,Vivians,Business Development,977811.98
+177,Nealson,Twoohy,Product Management,752649.57
+178,Danice,Cearley,Legal,129551.73
+179,Elysha,Clerk,Engineering,556047.88
+180,Mandi,Ollier,Training,200737.62
+181,Maryanne,Riden,Accounting,948655.91
+182,Glenna,Bamborough,Human Resources,32424.55
+183,Belita,Dobrowski,Marketing,587119.84
+184,Duane,Gilderoy,Support,529593.74
+185,Andrey,Colliard,Sales,440144.59
+186,Ardenia,Wanstall,Accounting,937153.25
+187,Ulrike,Weth,Services,267467.28
+188,Gregg,Densun,Sales,128382.83
+189,Filberte,Dungate,Human Resources,142787.52
+190,Delano,Fowles,Legal,973448.39
+191,Ann,Iacobacci,Services,120085.47
+192,Baird,Strathearn,Human Resources,216086.04
+193,Keary,Voden,Research and Development,292248.87
+194,Norri,Dugood,Sales,620329.19
+195,Loretta,Alford,Support,868472.97
+196,Inigo,Gratten,Engineering,27527.78
+197,Merissa,Guidone,Marketing,903435.11
+198,Werner,Holde,Support,563197.27
+199,Hurleigh,Lecount,Business Development,418642.67
+200,Janeen,Brooker,Sales,937084.22
+201,Tarrah,Chavrin,Training,559205.98
+202,Dania,Blackly,Training,968385.69
+203,Sherwood,Matic,Services,363860.56
+204,Sadella,Asbury,Marketing,505380.82
+205,Rollie,Ringham,Services,728805.36
+206,Marita,Snassell,Research and Development,502323.9
+207,Levi,Malone,Research and Development,458788.68
+208,Sandi,O'Collopy,Research and Development,277292.52
+209,Lusa,Penas,Training,461107.44
+210,Alleyn,Poter,Product Management,644228.29
+211,Sasha,Demicoli,Marketing,290314.36
+212,Alli,Larchiere,Engineering,951998.73
+213,Yanaton,Poundesford,Business Development,570984.24
+214,Astra,Cardow,Marketing,549259.3
+215,Stesha,Leppo,Marketing,102929.29
+216,Andreana,Schiell,Accounting,972849.5
+217,Mackenzie,Brumbie,Business Development,735982.93
+218,Jyoti,Shermar,Training,438588.07
+219,Bruno,Rosenberg,Legal,990993.26
+220,Layton,Bentame,Product Management,60813.2
+221,Tommy,Cottu,Human Resources,561989.46
+222,Verla,Mewhirter,Business Development,211102.67
+223,Loydie,Merioth,Training,817869.12
+224,Emmott,Leatherbarrow,Services,230144.24
+225,Windy,Lennie,Sales,994756.07
+226,Nigel,Culcheth,Legal,84107.95
+227,Larine,Hatrey,Research and Development,856569.63
+228,Rodney,Capewell,Accounting,336085.45
+229,Ronnie,Stout,Marketing,576950.07
+230,Dian,Spohr,Sales,17913.91
+231,Stanwood,Jedrzejczak,Engineering,166785.06
+232,Angelo,Measor,Training,242070.78
+233,Eberhard,Jozsika,Sales,325279.2
+234,Jaquenette,Pitts,Accounting,634346.31
+235,Arlinda,Ingraham,Business Development,312562.28
+236,Shelley,Rickersey,Engineering,45214.1
+237,Shane,Guyers,Training,354831.41
+238,Rosemonde,Mandres,Accounting,267129.63
+239,Estell,Gillbee,Business Development,627994.84
+240,Weston,Peter,Human Resources,918841.41
+241,Gabriell,Maken,Business Development,149197.99
+242,Chicky,Goranov,Sales,259015.93
+243,Barnabe,Amberg,Accounting,342816.79
+244,Dore,Allberry,Engineering,219716.48
+245,Kessia,Berkeley,Support,361719.36
+246,Ira,Holton,Training,600433.04
+247,Kelsey,Bonfield,Product Management,97142.69
+248,Ettie,Suggitt,Engineering,741514
+249,Mella,Killich,Sales,16402.75
+250,Ardra,Richardeau,Research and Development,816802.34
+251,Roger,Castelletti,Research and Development,787762.76
+252,Rachel,Twaite,Product Management,320056.32
+253,Bobby,Eggers,Business Development,689384.29
+254,Gannie,Houlahan,Product Management,995261.54
+255,Babara,Biaggioni,Marketing,824900.28
+256,Lory,Gehrts,Training,999899.13
+257,Hally,Margiotta,Legal,474432.87
+258,Aleda,Northleigh,Product Management,92277.07
+259,Tommie,Langman,Legal,750701.44
+260,Jamaal,Sanham,Support,678194.67
+261,Adlai,Shewry,Research and Development,431808.14
+262,Jaquelin,Pevsner,Sales,860946.48
+263,Sherline,Alecock,Research and Development,188253.21
+264,Clayborne,Dykes,Accounting,352909.78
+265,Rickard,Itzchaky,Human Resources,480390.42
+266,Stacia,Keme,Product Management,768915.96
+267,Reilly,Oertzen,Business Development,836320.92
+268,Vaughn,Edyson,Research and Development,382724.76
+269,Bambi,Chapelle,Product Management,856214.43
+270,Olympe,Jenken,Accounting,169126.95
+271,Wallie,Tudhope,Accounting,741402.14
+272,Zeb,Pedrol,Services,885751.03
+273,Darline,Lardner,Accounting,495296.28
+274,Hastie,Groomebridge,Engineering,115915.84
+275,Tine,Allso,Sales,865325.71
+276,Lyman,Clyant,Research and Development,876022.71
+277,Godiva,O'Dyvoy,Training,629641.32
+278,Jobey,Vella,Human Resources,588966.18
+279,Granger,Tremoulet,Business Development,997204.69
+280,Rosella,Blumer,Business Development,84029.17
+281,Garrard,Durrell,Human Resources,265657.03
+282,Susanna,Macellar,Human Resources,923880.87
+283,Nicko,Charlwood,Sales,539363.53
+284,Mirabelle,Amorts,Engineering,3648.79
+285,Donnell,Ends,Business Development,999065.9
+286,Rebekkah,Drewe,Product Management,325164.06
+287,Raphaela,Verlinden,Engineering,839346.04
+288,Marta,Guppy,Engineering,733365.37
+289,Rorie,De Witt,Legal,818808.63
+290,Harv,Sara,Training,561473.86
+291,Allister,Ioannou,Accounting,676220.47
+292,Mattie,Ortes,Human Resources,610057.16
+293,Wolfy,Jelfs,Product Management,466908.38
+294,Ginnie,Deniseau,Support,119696.51
+295,Tiffy,Morin,Services,218355.95
+296,Aeriela,Zuann,Accounting,644785.43
+297,Jarred,Dibdin,Services,71698.52
+298,Avivah,Mansfield,Sales,581410.21
+299,Bo,Rablen,Sales,615429.08
+300,Dukey,Ingall,Research and Development,611988.52
+301,Flin,Rackley,Engineering,372152.02
+302,Abraham,Weatherill,Legal,535920.95
+303,Tomkin,Moughtin,Engineering,545875.18
+304,Sheena,Buxsey,Product Management,304468.07
+305,Zachary,Mitcheson,Human Resources,261286.12
+306,Riva,Hercock,Engineering,746903.29
+307,Rouvin,Klus,Sales,674056.12
+308,Marchelle,Lockhurst,Training,580356.68
+309,Gary,Rottenbury,Training,916102.39
+310,Betsey,Beaven,Marketing,673357.94
+311,Gerianne,Cattel,Engineering,920499.91
+312,Sandra,Sarjant,Research and Development,159757.49
+313,Barnett,MacGowing,Engineering,979967.76
+314,Kathrine,Odda,Sales,992803.98
+315,Emalee,Grestye,Sales,854524.94
+316,Pietro,Pauly,Business Development,337365.52
+317,Brenna,Casina,Business Development,669244.96
+318,Dyana,Sloyan,Human Resources,320905.44
+319,Rudie,Finlason,Engineering,836009.96
+320,Morie,Harrald,Legal,796756.73
+321,Christoffer,Chatel,Engineering,5773.29
+322,Tobye,Ortzen,Services,693293.27
+323,Jeanine,Duckit,Accounting,646360.31
+324,Quillan,Macenzy,Accounting,135686.87
+325,Fern,Prewer,Training,157050.28
+326,Harmon,Keys,Engineering,925342.89
+327,Rowan,Franchioni,Human Resources,431032.24
+328,Cele,Juckes,Business Development,254626.92
+329,Elden,Arnal,Engineering,738450.07
+330,Damara,Kwiek,Product Management,794513.82
+331,Zacherie,Rollingson,Business Development,294359.09
+332,Susi,Jayume,Accounting,245023.1
+333,Aubrie,McMurty,Services,497695.98
+334,Nata,Jepp,Engineering,301964.41
+335,Caron,Sauvan,Marketing,448386.99
+336,Grange,Roydon,Training,95038.43
+337,Niven,Dykes,Accounting,610445.6
+338,Clementia,Tutchell,Marketing,734950.64
+339,Matti,Clouter,Human Resources,788688.81
+340,Brittan,Pick,Product Management,525748.92
+341,Edmon,Deverill,Training,186369.73
+342,Jeanette,Barnbrook,Sales,810159.1
+343,Elfrida,Mattia,Business Development,833949.22
+344,Retha,Wotton,Product Management,236433.82
+345,Huey,Pankhurst.,Business Development,336186.5
+346,Paulie,Trusse,Legal,270261.21
+347,Rebbecca,Duncan,Accounting,673117.6
+348,Wandie,Massei,Training,116964.02
+349,Hyacinthia,Tapper,Research and Development,616424.53
+350,Elbert,Mebes,Sales,928695.54
+351,Bartram,Wait,Business Development,87663.7
+352,Ardis,Feilden,Accounting,382083.6
+353,Zebedee,Southerell,Support,768382.72
+354,Shellie,Nerne,Engineering,602445.8
+355,Sibelle,Geater,Product Management,223907.29
+356,Mabel,Bukowski,Human Resources,142267.36
+357,Yuma,Cusack,Human Resources,128817.9
+358,Jewell,Petrolli,Training,620937.36
+359,Sammie,Blackly,Marketing,203931.25
+360,Base,Scollard,Services,552978.56
+361,Lindsay,Coldham,Human Resources,620076.8
+362,Vera,Magrane,Services,851670.2
+363,Jim,Pagin,Services,886053.43
+364,Deedee,Mullett,Engineering,68453.64
+365,Lara,Avey,Sales,311505.25
+366,Harris,Tesoe,Sales,496725.69
+367,Wendy,Milborn,Human Resources,337242.23
+368,Loise,Davidovitch,Human Resources,808740.31
+369,Ambur,Pohl,Human Resources,125209.74
+370,Lauren,Garrigan,Marketing,274352.62
+371,Ibbie,Beeble,Engineering,299162.96
+372,Reggis,Letch,Legal,597415.77
+373,Isidor,Spence,Services,800577.4
+374,Homer,O'Cuddie,Legal,280097.74
+375,Corbie,Ballingal,Marketing,233188.51
+376,Minor,Vasyukhin,Accounting,630013.79
+377,Toiboid,Brusin,Support,365043
+378,Natty,Mottershead,Business Development,324363.6
+379,Blithe,Tooker,Support,285905.68
+380,Renelle,Englishby,Product Management,869728.51
+381,Maible,Whiscard,Legal,706274.61
+382,Reynolds,Deveraux,Support,408189.51
+383,Loretta,Krystof,Sales,383750.78
+384,Hilario,Cannop,Human Resources,342051.25
+385,Burke,Becerro,Business Development,849944.8
+386,Eirena,Wiz,Accounting,354620.56
+387,Suzi,Cypler,Marketing,88221.43
+388,Tomi,Purnell,Research and Development,442690.39
+389,Jenn,Holley,Services,368111.77
+390,Chic,Olivet,Product Management,616287.52
+391,Merl,Boles,Business Development,508993.4
+392,Rica,Jonin,Legal,384513.73
+393,Pierette,Pughe,Training,358750.56
+394,Edsel,Danson,Training,235110
+395,Billy,Smeath,Research and Development,422260.03
+396,Gael,Russel,Sales,829558.04
+397,Waverley,Lissenden,Business Development,904552.81
+398,Chrysler,Oppie,Research and Development,981602.41
+399,Christan,Obell,Research and Development,115559.16
+400,Inger,Tainton,Training,140960.89
+401,York,Kalkhoven,Training,725800.91
+402,Sharla,Yarker,Human Resources,604076.82
+403,Ottilie,Anderbrugge,Services,292768.73
+404,Wilie,McArtan,Marketing,351851.48
+405,Jo,Stallybrass,Support,659803.51
+406,Lavinia,Hunday,Training,843664.16
+407,Prudence,Raw,Business Development,489376.66
+408,Chrisy,Mash,Product Management,271092.99
+409,Candida,Gabel,Sales,296160.14
+410,Nolan,Standbrooke,Research and Development,710580.97
+411,Maxie,Scedall,Research and Development,259371.52
+412,Kyle,Sails,Business Development,901170.22
+413,Marshall,Gyles,Engineering,574826.3
+414,Tanney,Dizlie,Human Resources,227767.06
+415,Decca,Egiloff,Marketing,785189.13
+416,Tobit,Greschke,Accounting,700586.54
+417,Siward,Frodsham,Marketing,905248.43
+418,Kelli,Petrescu,Business Development,230165.52
+419,Paige,Brandenburg,Training,998387.42
+420,Kelli,Cristea,Accounting,431856.82
+421,Jamal,Defty,Training,788939.46
+422,Dwain,Adderson,Research and Development,799802.04
+423,Haven,Ebbotts,Services,12964.6
+424,Buiron,Riddle,Sales,47486.7
+425,Melisandra,Von Welden,Research and Development,449937.44
+426,Torie,Bronot,Services,630912.69
+427,Denis,Hedgecock,Research and Development,860758.97
+428,Cole,Dachs,Research and Development,442647.76
+429,Sly,Clendinning,Human Resources,310794.06
+430,Maggee,Ronnay,Research and Development,165357.4
+431,Aksel,Foden,Accounting,692832.49
+432,Maryellen,Ginman,Marketing,903313.62
+433,Kasey,Brammer,Engineering,26041
+434,Kirbie,Chaikovski,Support,667116.98
+435,Cirillo,Whitman,Product Management,8987.54
+436,Joela,Mackin,Human Resources,770974.1
+437,Buckie,Dionisetti,Engineering,238667.11
+438,Clea,Trobey,Business Development,105885.7
+439,Maggi,Alsina,Human Resources,911682.28
+440,Micah,Newarte,Legal,795657.65
+441,Andreana,Matessian,Sales,507597.86
+442,Corbin,End,Research and Development,359130.1
+443,Merill,Calverd,Human Resources,628404.69
+444,Lammond,Kevern,Accounting,682094.47
+445,Zola,Dell Casa,Accounting,680828.99
+446,Adeline,Scibsey,Marketing,217145.39
+447,Bianca,Crosier,Sales,736136.58
+448,Rudie,Etches,Support,871762.39
+449,Tripp,Bows,Accounting,781822.93
+450,Sofia,Dalgarnowch,Research and Development,70842.91
+451,Cleavland,Cottage,Marketing,6388.73
+452,Corbie,Ragborne,Business Development,574668.63
+453,Elena,Scrowby,Product Management,960875.44
+454,Berkeley,De'Ath,Sales,934132.82
+455,Sashenka,Stolberger,Business Development,206642.55
+456,Sabina,Milligan,Legal,179582.86
+457,Teddie,Eade,Sales,331236.45
+458,Imojean,Cassely,Marketing,489254
+459,Marie-ann,Bodleigh,Support,423008.9
+460,Fran,Pedrocchi,Services,910514.81
+461,Keelia,Bywater,Training,313721.83
+462,Davie,Mateescu,Legal,799048.76
+463,Ave,Grandison,Business Development,675827.18
+464,Angie,Reek,Engineering,109460.72
+465,Jolene,Vasyanin,Marketing,156220
+466,Reggie,Faucherand,Legal,599780.29
+467,Thacher,Petri,Services,38968.42
+468,Paddy,Wardale,Product Management,255747.78
+469,Rhiamon,Waleran,Marketing,17725.16
+470,Nefen,Late,Marketing,571392.6
+471,Skipper,Thomtson,Legal,149727.68
+472,Truman,Pentony,Sales,408466.99
+473,Kelsy,McGilbon,Human Resources,827560.87
+474,Alric,Newland,Product Management,823130.35
+475,Rhona,Tort,Business Development,34110.7
+476,Terrye,Denford,Human Resources,617702.83
+477,Sandy,Swarbrick,Services,614875.13
+478,Konrad,Mounch,Sales,930278.79
+479,North,Godar,Accounting,352149.36
+480,Ingaborg,Rottger,Engineering,324778
+481,Dunstan,Stoppe,Engineering,351558.96
+482,Hattie,Tatlock,Accounting,938517.63
+483,Therese,Prott,Product Management,816115.97
+484,Audrie,Salvadori,Services,980263.32
+485,Denni,Cosens,Research and Development,445796.17
+486,Orella,Eich,Human Resources,31284.75
+487,Sibyl,Rigeby,Sales,518675.13
+488,Rancell,Edyson,Business Development,250658.32
+489,Holt,Taggerty,Research and Development,825606.39
+490,Sari,Crossfield,Sales,35082.21
+491,Greta,Maidment,Engineering,962851.91
+492,Fleurette,Dressell,Sales,799063.04
+493,Gordie,Stanistrete,Engineering,646436.19
+494,Carlen,Pirouet,Accounting,520592.23
+495,Thorndike,Hulkes,Training,527740.51
+496,Angela,Mager,Services,970462.88
+497,Madelaine,Utridge,Support,728395.3
+498,Clevey,Bispham,Business Development,174742.57
+499,Judon,MacAskill,Engineering,284392.18
+500,Kit,Darwen,Engineering,171847.67
+501,Katina,Eric,Legal,139710.65
+502,Khalil,Brizland,Sales,569656.82
+503,Gregoor,Bousler,Human Resources,840525.8
+504,Andree,Carreck,Marketing,997157.71
+505,Jerry,Dominique,Marketing,263696.33
+506,Delia,Andrin,Marketing,714240.85
+507,Rodrique,Alfwy,Human Resources,114424.86
+508,Karyn,Eede,Accounting,684060.99
+509,Carolyne,Cumber,Research and Development,180815.08
+510,Nappy,Kluger,Marketing,456548.95
+511,Shannon,Whittenbury,Services,687491.11
+512,Ferdie,Paramore,Research and Development,813288.41
+513,Julie,Turrell,Legal,729034.75
+514,Kirsteni,Deavin,Business Development,868703.45
+515,Julieta,Doggrell,Marketing,609945.79
+516,Rolfe,Titmuss,Engineering,277529.62
+517,Ahmad,Bier,Research and Development,980088.51
+518,Gail,Balderston,Product Management,842660.76
+519,Ilyse,Stanyer,Human Resources,17967
+520,Mendy,Harbach,Services,204136.91
+521,Garrick,Zima,Business Development,967204.82
+522,Mordecai,Tremberth,Services,30548.45
+523,Gris,Stoodale,Accounting,904181.5
+524,Demetra,Mendes,Product Management,231326.51
+525,Kirk,Spark,Business Development,824720.63
+526,Claudio,Yeldon,Accounting,164560.47
+527,Andras,Szymanzyk,Human Resources,182014.35
+528,Jehanna,Garthshore,Product Management,294487.67
+529,Brad,Cauderlie,Product Management,813064.83
+530,Lebbie,Zelland,Legal,814499.86
+531,Dina,Haszard,Sales,387309.23
+532,Scarlet,Rudgley,Services,239961.37
+533,Byrle,Gert,Marketing,864767.06
+534,Harlen,Fitzackerley,Engineering,273045.51
+535,Kary,Murrells,Research and Development,852654.12
+536,Sharity,Jenk,Accounting,674591.51
+537,Marmaduke,Mathelon,Research and Development,417506.47
+538,Kirbie,Weakley,Services,146691.63
+539,Del,Thrustle,Services,52944.55
+540,Heda,McGarvie,Training,573642.77
+541,Ulberto,Spours,Human Resources,578896.43
+542,Joleen,Raffin,Marketing,43199.83
+543,Phebe,Saffin,Human Resources,268072.83
+544,Cesare,Lanahan,Training,55192.82
+545,Upton,Oakshott,Training,244544.68
+546,Kathy,Pietrzak,Business Development,237193.33
+547,Powell,Crosdill,Sales,533047.23
+548,Maxwell,Weatherup,Product Management,425056.66
+549,Vaughn,Barck,Support,181738.85
+550,Enrichetta,Caines,Sales,14331.58
+551,Josee,McKeeman,Services,989119.65
+552,Olga,Walhedd,Services,956618.47
+553,Jobi,Greenacre,Marketing,878269.68
+554,Justino,Deddum,Sales,628050.91
+555,Terencio,Tonner,Marketing,179020.25
+556,Kenna,Momery,Legal,193928.96
+557,Willabella,Brewster,Business Development,689112.01
+558,Dalt,Seneschal,Marketing,196259.82
+559,Joannes,Adamson,Business Development,649791.11
+560,Shae,Philippeaux,Services,324528.99
+561,Fidelio,Giblin,Sales,34891.63
+562,Hugo,Kearley,Marketing,34207.82
+563,Shawn,Garnam,Business Development,402773.32
+564,Stavros,Comben,Support,793961.92
+565,Ignaz,Carley,Legal,166323.35
+566,Jennette,O'Gavin,Engineering,579806.56
+567,Gray,Kennard,Services,21211.11
+568,Josepha,Rishbrook,Marketing,261482.84
+569,Noel,Stones,Training,584689.54
+570,Berni,Iltchev,Engineering,544161.08
+571,Finlay,Cardnell,Services,25411.55
+572,Alfy,Hurry,Services,624388.53
+573,Florentia,Poppleton,Human Resources,727695.95
+574,Babbette,Kennington,Engineering,847130.46
+575,Craggy,Risen,Accounting,340819.46
+576,Christoper,Dunkinson,Marketing,796246.37
+577,Hilda,Arbor,Product Management,528466.96
+578,Kristian,McLuckie,Human Resources,210831.78
+579,Helaine,Brick,Engineering,610110.21
+580,Cordy,Nann,Services,323328.71
+581,Gennie,Beavon,Accounting,371697.38
+582,Devin,Feldman,Engineering,412182.39
+583,Walsh,Guillerman,Services,570724.68
+584,Beverie,Le Marchand,Services,956988.78
+585,Renaud,Pellett,Support,887021.47
+586,Winfred,Hoopper,Human Resources,360958.03
+587,Dusty,Gosswell,Human Resources,553231.27
+588,Ryley,Blampy,Accounting,375415.22
+589,Maxwell,Burnsall,Engineering,807751.6
+590,Cyndie,Lobley,Accounting,237746.75
+591,Aguistin,Iannini,Research and Development,752943.06
+592,Gloria,Slavin,Research and Development,382106.4
+593,Min,Peyto,Research and Development,885715.21
+594,Rubina,Lippo,Business Development,110352.32
+595,Jamil,Gibbin,Human Resources,254743.4
+596,Sib,Ingrey,Human Resources,97856.12
+597,Heindrick,Nendick,Business Development,89558.26
+598,Beth,Tissiman,Legal,312122.3
+599,Johnna,Brimacombe,Human Resources,723556.47
+600,Gina,Lush,Engineering,302636.19
+601,Chrystal,Grumell,Engineering,627053.79
+602,Loella,McNeachtain,Sales,431369.69
+603,Tomasina,Edeson,Product Management,241253.3
+604,Tessie,Beart,Accounting,938202.3
+605,Courtnay,Drakard,Marketing,917068.8
+606,Babita,Minchell,Product Management,123308.38
+607,Barty,Damrel,Legal,268947.24
+608,Perice,Compston,Training,235873.41
+609,Kinna,Vallentin,Engineering,759600.52
+610,Matty,Kolis,Support,17237.3
+611,Doralia,Downs,Product Management,441510.47
+612,Donnie,Mawne,Marketing,469336.99
+613,Gena,McGeraghty,Marketing,663035.73
+614,Bianca,Joannic,Services,568482.72
+615,Salomi,Wrack,Engineering,150450.29
+616,Anthia,Mullany,Engineering,442033.86
+617,Herbert,Duprey,Marketing,499052.25
+618,Decca,Levison,Services,230243.86
+619,Martie,Osorio,Sales,779341.14
+620,Emerson,Leyshon,Human Resources,671661.16
+621,Star,Conwell,Business Development,627765.5
+622,Nikki,Daughtery,Support,208780.41
+623,Clementia,Dutnell,Training,631310.13
+624,Eryn,Flott,Marketing,232686.17
+625,Fons,Ville,Research and Development,760039.22
+626,Fan,Aldus,Support,476311.2
+627,Martha,Walczak,Sales,119853
+628,Gates,Zum Felde,Human Resources,859405.86
+629,Nanette,Doughartie,Business Development,824465.15
+630,Rickey,Davys,Sales,326817.4
+631,Luis,Condit,Accounting,852362.84
+632,Torrey,Domone,Product Management,122535.89
+633,Vida,Woodwin,Sales,585053.33
+634,Freida,Aggs,Legal,285870.35
+635,Daisey,Camelin,Business Development,960875.05
+636,Elmore,Gibbins,Sales,572512.22
+637,Lynnelle,Drury,Research and Development,637375.08
+638,Penn,Easom,Services,13277.57
+639,Dennis,Delle,Accounting,348003.75
+640,Yance,Mathey,Services,690125.54
+641,Rhodie,Gile,Research and Development,390546.37
+642,Romy,Coners,Sales,571109.55
+643,Theadora,Scroggie,Accounting,889592.55
+644,Gerri,Satterley,Services,969514.71
+645,Brok,Meiklam,Training,981572.61
+646,Veradis,Arnao,Product Management,296735.4
+647,Shirleen,Blench,Accounting,187547.22
+648,Cyrus,Alessandretti,Marketing,650184.1
+649,Husein,Riditch,Business Development,5093.52
+650,Daryl,Learmont,Product Management,180557.68
+651,Ursa,Mc Meekin,Product Management,868186.04
+652,Giustina,Winscom,Product Management,714155.55
+653,Glory,Lymbourne,Accounting,278833.04
+654,Billye,Veysey,Accounting,557097
+655,Issi,Bazylets,Training,374268.05
+656,Krissy,Booler,Research and Development,715736.51
+657,Freida,Louden,Support,396513.01
+658,Gian,Bridgeman,Training,998009.4
+659,Antons,Hillatt,Accounting,347236.81
+660,Rana,Standage,Product Management,602968.76
+661,Amandie,Hacker,Support,648555.07
+662,Levon,De Ambrosi,Support,316470.32
+663,Wash,Evennett,Services,852148.54
+664,Bondon,Jurries,Marketing,834073.47
+665,Toby,D'Alesco,Sales,410303.88
+666,Alain,Weeds,Business Development,932882.17
+667,Brennan,Gunthorpe,Product Management,542905.14
+668,Erek,Stockman,Services,181438.48
+669,Wendie,Burnsides,Services,891953.07
+670,Marti,Tregenna,Marketing,33584.16
+671,Victoria,Fibbit,Research and Development,919477.29
+672,Corly,Iron,Support,144034.44
+673,Walt,Robus,Sales,706563.35
+674,Roseanna,Grafhom,Accounting,284939.74
+675,Lindsey,Kaming,Legal,338292.37
+676,Yetta,McKern,Training,311458.16
+677,Melicent,Kembrey,Product Management,906825.49
+678,Worthington,Curwood,Services,692050.08
+679,Katrina,De Ath,Marketing,400383.4
+680,Ruprecht,Farncomb,Legal,402318.28
+681,La verne,Witcombe,Human Resources,308394.89
+682,Justina,Zealy,Training,63101.85
+683,Cesya,Mate,Legal,353668.4
+684,Sibbie,Semechik,Training,471081.91
+685,Walther,Grenville,Accounting,51129.19
+686,Jacinthe,Thowes,Research and Development,396088.19
+687,Thadeus,Tomaskunas,Accounting,459682.6
+688,Anthea,McLugish,Marketing,677494.52
+689,Daphne,Mitchinson,Training,468119.62
+690,Karoline,Hubane,Engineering,963839.54
+691,Graeme,Jeynes,Sales,179700.71
+692,Lynne,Posen,Support,40810.18
+693,Jyoti,Nassey,Sales,275329.13
+694,Noe,Cleyburn,Research and Development,46121.39
+695,Germana,Aland,Product Management,929382.62
+696,Tish,Buckby,Legal,319732.21
+697,Rustin,Tollemache,Sales,362224.25
+698,Patsy,Bonnier,Support,771549.17
+699,Egan,Shakesby,Services,954531.09
+700,Hoyt,Robardley,Services,309705.31
+701,Rana,Jope,Business Development,361255.96
+702,Brendon,Olliffe,Marketing,266144.63
+703,Ritchie,Pringer,Accounting,8337.69
+704,Eve,Skrines,Sales,862675.6
+705,Winfred,Eckersall,Business Development,797637.69
+706,Wallie,Ennew,Research and Development,516472.12
+707,Olia,Baud,Business Development,693418.53
+708,Christa,Sloegrave,Support,321089.25
+709,Glori,Beaty,Engineering,109644.76
+710,Terence,Dabbs,Training,508997.38
+711,Brnaba,Lannon,Legal,29838.19
+712,Baxie,Colbron,Business Development,209350.06
+713,Burg,Barefoot,Legal,687086.45
+714,Nissie,Balbeck,Product Management,801802.06
+715,Kelcie,Cantwell,Support,467648.99
+716,Isak,St Pierre,Training,237623.64
+717,Theresita,Posen,Support,367598
+718,Vanna,Pascoe,Product Management,329672.38
+719,Rebecka,Perkins,Legal,448315.39
+720,Thorn,Bakey,Legal,739387.66
+721,Nana,Dibdall,Training,259394.09
+722,Bobette,De Bruijne,Research and Development,347773.67
+723,Astrid,Doctor,Services,157943.84
+724,Odo,Andersen,Product Management,481632.69
+725,Bevon,Dubble,Legal,312155.22
+726,Arlinda,Alenov,Legal,521256.24
+727,Buddie,Gladdor,Sales,618181.17
+728,Ebba,Morillas,Legal,993457.57
+729,Drusi,Chawkley,Sales,84843.24
+730,Neilla,Garrold,Legal,228234.88
+731,Valentine,Rowthorn,Marketing,219324.42
+732,Josee,Stoppard,Engineering,456256.2
+733,Jennette,Perotti,Human Resources,558168.75
+734,Audie,Baike,Research and Development,456521.33
+735,Reid,Bauchop,Training,935235.04
+736,Trixie,Genge,Legal,732025.98
+737,Kimberlee,Larrington,Human Resources,229844.69
+738,Woody,Heaker,Services,945302.81
+739,Annalee,Durban,Legal,390310.79
+740,Blayne,Tulloch,Accounting,867962.23
+741,Josias,Lindup,Business Development,474451.2
+742,Ludovico,Presnail,Training,382372.34
+743,Annadiane,Snugg,Training,572998.33
+744,Derward,Rumble,Legal,300081.55
+745,Ingunna,Ricardet,Legal,529013.13
+746,Walton,Youens,Training,11619.68
+747,Kiele,Malloch,Product Management,331599.23
+748,Farlee,Golds,Marketing,283571.77
+749,Ginevra,Scheffler,Sales,586449.4
+750,Othello,Skeeles,Training,251184.34
+751,Benedetta,Masham,Marketing,697157.04
+752,Gale,Crawshay,Product Management,936313.07
+753,Melli,Lafee,Training,322463.61
+754,Keary,Barry,Accounting,108944.1
+755,Wilfred,Belden,Accounting,550890.27
+756,Austine,Smiths,Human Resources,493496.41
+757,Winny,Brewitt,Services,17715.59
+758,Had,Jozwicki,Marketing,200148.28
+759,Joli,Yushmanov,Research and Development,999367.77
+760,Gun,Dunston,Marketing,43669.88
+761,Tim,Gosenell,Business Development,236922.93
+762,Lowell,Cossam,Human Resources,478290.52
+763,Yul,Tellesson,Product Management,916040.49
+764,Carlie,Pimblott,Engineering,214673.74
+765,Delinda,Muckleston,Training,708201.89
+766,Paxton,Casseldine,Engineering,299969.16
+767,Lorilyn,Rodmell,Legal,718929.27
+768,Aura,Jansema,Sales,746075.18
+769,Westleigh,Huff,Research and Development,887927.8
+770,Ambros,McGuinness,Business Development,627807.14
+771,Polly,Mazillius,Legal,737168.77
+772,Huntlee,Burress,Business Development,939453.51
+773,Lindie,Van De Cappelle,Legal,809179.91
+774,Dennet,Pow,Services,988934.01
+775,Lily,McNamee,Business Development,514828.88
+776,Pacorro,Gentner,Engineering,73992.23
+777,Florence,Luberto,Sales,760145.44
+778,Shelby,Jirik,Legal,573682.84
+779,Nelia,Steabler,Services,405989.92
+780,Ashlen,Giannazzo,Support,919785.88
+781,Gertrud,Quigg,Training,874515.16
+782,Britteny,Sictornes,Legal,239281.07
+783,Linnell,Carlesi,Services,35930.46
+784,Mireielle,Beavis,Marketing,197223.15
+785,Dionysus,MacGillespie,Engineering,219029.44
+786,Cherlyn,Brocking,Engineering,321543.22
+787,Dorice,Orpyne,Legal,442353.12
+788,Karlene,McCreadie,Product Management,472855.76
+789,Merl,Carlone,Legal,239453.84
+790,Aila,Weinham,Legal,532611.04
+791,Jewel,Antonietti,Services,569605.8
+792,Gwenneth,Hellard,Accounting,964739.13
+793,Carlynn,Quinlan,Accounting,299948.32
+794,Kimball,Lawles,Services,132976.18
+795,Camella,Frantzeni,Marketing,339551.89
+796,Lissie,Oakenford,Product Management,736622.08
+797,Lisette,Yurevich,Research and Development,967482.56
+798,Ivett,Elcocks,Sales,742523.35
+799,Alvy,Petraitis,Product Management,983408.05
+800,Nicky,Tuckie,Accounting,664824.3
+801,Nil,Bockings,Services,707439.46
+802,Hurlee,Gerriessen,Training,768022.15
+803,Toiboid,Talkington,Engineering,565757.15
+804,Reggy,Dibbin,Accounting,537686.99
+805,Mendy,Cuming,Sales,986159.11
+806,Rhianon,Fireman,Business Development,360765.65
+807,Liuka,Benstead,Marketing,950838.47
+808,Elia,Tiltman,Support,525072.71
+809,Penny,Faithfull,Sales,580907.43
+810,Ansley,Ruggier,Research and Development,93330.12
+811,Gaston,Espinazo,Engineering,733553.88
+812,Ingaberg,Mollene,Human Resources,560551.18
+813,Georgena,Gidney,Engineering,445345.38
+814,Deanne,Walesa,Human Resources,80513.68
+815,Korney,Dreelan,Sales,822663.03
+816,Rennie,Padley,Research and Development,918558.33
+817,Ettore,Metzing,Business Development,284651.32
+818,Anne,O'Gaven,Engineering,571556.44
+819,Geraldine,Luxford,Legal,806952.3
+820,Amalita,Shrawley,Business Development,20145.86
+821,Nonah,Lalonde,Services,844641.5
+822,Roland,Riolfo,Product Management,909566.6
+823,Marijo,Ternott,Human Resources,839752.82
+824,Court,Halley,Support,239296.14
+825,Terri-jo,Seeley,Product Management,645083.43
+826,Dolph,Mart,Training,216420.95
+827,Yorgo,Brettell,Legal,581490.24
+828,Olympia,Spolton,Accounting,683225.43
+829,Yankee,Ceci,Sales,92447.32
+830,Elladine,Dyter,Support,803318.03
+831,Halie,Chastagnier,Sales,970715.42
+832,Rossy,Joliffe,Research and Development,361855.4
+833,Lorilyn,Musicka,Accounting,587768.59
+834,Sheree,Gisburne,Accounting,440933.38
+835,Guillemette,Swiffin,Product Management,682891.17
+836,Dylan,Grimbaldeston,Services,938561.19
+837,Nevil,Leipoldt,Marketing,307978.63
+838,Garek,Gooderick,Legal,854476.04
+839,Raf,Turvey,Support,576354.92
+840,Brinn,Fernandez,Product Management,41580.45
+841,Ashton,Jacquet,Sales,940247.76
+842,Beryl,Moatt,Legal,162875.74
+843,Keene,Speed,Legal,336077.03
+844,Kaleb,Phillip,Services,918200.99
+845,Steffen,Sibbson,Support,334738.62
+846,Savina,Blest,Support,821894.44
+847,Milt,Sibborn,Training,575625.36
+848,George,Kobel,Product Management,116354.88
+849,Hildagard,Giffon,Support,3389.21
+850,Gaven,Prall,Business Development,649257.51
+851,Karlen,Langran,Accounting,938496.36
+852,Shawnee,Donnell,Product Management,659679.11
+853,Jean,Pill,Sales,174860.34
+854,Ambrosio,Betchley,Sales,648875.05
+855,Findlay,Polk,Marketing,678776.14
+856,Kathrine,Prandy,Marketing,342436.6
+857,Orran,Hillhouse,Engineering,110617.24
+858,Mercie,Heavy,Research and Development,829148.96
+859,Gayelord,Wheelton,Accounting,107701.59
+860,Modesta,Barkus,Sales,463208.69
+861,Olivia,Mines,Marketing,711910.78
+862,Noreen,Muslim,Product Management,58955.36
+863,Petey,Le Marchant,Product Management,101431.21
+864,Krystle,Puvia,Product Management,889353.49
+865,Ford,Morhall,Product Management,141460.47
+866,Goldia,Joselevitch,Product Management,405258.77
+867,Rowen,Dewick,Research and Development,147410.72
+868,Palmer,Marsham,Marketing,470503.83
+869,Chrotoem,Wroath,Product Management,413652.22
+870,Aymer,Cudmore,Support,289693.26
+871,Brigid,Briiginshaw,Services,349664.5
+872,Meier,Drake,Research and Development,166557.41
+873,Gordon,Toffel,Marketing,982414.68
+874,Eleanor,MacNeely,Sales,197299.44
+875,Danni,Lantuff,Human Resources,504743.74
+876,Brooke,Keme,Marketing,903972.92
+877,Jennette,Grinter,Research and Development,466982.89
+878,Herminia,Peasgood,Legal,511684.05
+879,Annabella,MacNess,Human Resources,461211.97
+880,Gregoor,Dulson,Marketing,81374.16
+881,Anders,Pirrie,Services,36240.71
+882,Melinde,Chatell,Training,319165.8
+883,Vida,Greenroad,Sales,321203.99
+884,Prinz,Cabane,Research and Development,215723.64
+885,Brien,Greensted,Support,511676.15
+886,Ignacio,Fidler,Marketing,597363.98
+887,Fifine,Stears,Services,21930.53
+888,Gilburt,Heap,Accounting,285263.98
+889,Kalina,Andryushchenko,Legal,506474.64
+890,Blayne,Messam,Research and Development,891452.64
+891,Aurelia,Epperson,Engineering,671723.56
+892,Adria,Catterick,Business Development,99847.34
+893,Curran,Teare,Legal,932798.96
+894,Devora,Arnault,Training,969608.1
+895,Shay,Gueste,Marketing,823447.45
+896,Florinda,Herreros,Training,70478.62
+897,Rafe,Bleackly,Sales,654949.8
+898,Hobard,Annwyl,Research and Development,532858.73
+899,Antoni,Brandle,Product Management,693533.03
+900,Ingamar,Brackpool,Marketing,243932.82
