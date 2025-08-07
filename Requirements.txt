@@ -2,3 +2,4 @@ streamlit
 psycopg2-binary
 pandas 
 os
+psycopg2-binary
