@@ -1,4 +1,4 @@
 streamlit
 psycopg2-binary
-pandas 
-os
+pandas
+python-dotenv
