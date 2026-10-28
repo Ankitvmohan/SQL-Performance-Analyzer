@@ -4,3 +4,4 @@ queries = {
     "Optimized: Indexed Column": "SELECT * FROM employees WHERE new_employee_id = 100",
     "Aggregated Query": "SELECT Department, COUNT(*) FROM employees GROUP BY Department"
     }
+##

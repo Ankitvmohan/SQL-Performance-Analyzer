@@ -22,3 +22,5 @@ if st.button("Show EXPLAIN ANALYZE Plan"):
 if st.button("Apply Index on employee_id"):
     msg = create_index("new_employee_id")
     st.success(msg)
+
+##
