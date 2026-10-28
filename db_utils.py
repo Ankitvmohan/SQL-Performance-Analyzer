@@ -1,4 +1,4 @@
-import psycopg2.binary
+import psycopg2
 import pandas as pd
 from config import DB_CONFIG
 
