@@ -1,5 +1,0 @@
-DB_NAME=sql_analyzer
-DB_USER=sql_analyzer_user
-DB_PASSWORD=mULozZ0vFJQuQWa7I1JUa5sEhPKFCTCU
-DB_HOST=dpg-dbh1q8ei0phs73agac30-a.ohio-postgres.render.com
-DB_PORT=5432
